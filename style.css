@@ -1,0 +1,34 @@
+header {
+    margin: 0px;
+    background-color: #E6399B;
+}
+header h1 {
+    margin: px;
+}
+
+main {
+    background-color: #85004B;
+    margin-top: 5px;
+}
+#pic{
+    float:left;
+}
+#text{
+    margin-left: 170px;
+}
+
+body{
+    background-color: #85004B;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+#text2{
+    margin-left: 0px;
+    margin-top: 462px;
+    color:#9D69D6;
+}
+h2 {
+    text-align: center;
+}
